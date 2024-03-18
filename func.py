@@ -1,2 +1,3 @@
 def fun():
-    return None
+    return 01
+
